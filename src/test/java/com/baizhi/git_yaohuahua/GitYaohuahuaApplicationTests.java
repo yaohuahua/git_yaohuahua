@@ -9,6 +9,11 @@ class GitYaohuahuaApplicationTests {
     @Test
     void contextLoads() {
 
+
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
+        System.out.println("1111");
     }
 
 }
